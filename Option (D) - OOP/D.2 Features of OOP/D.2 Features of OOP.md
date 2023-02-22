@@ -1,0 +1,12 @@
+## 4 hrs
+1. Define the term encapsulation.
+2. Define the term inheritance.
+3. Define the term polymorphism.
+4. Explain the advantages of encapsulation.
+5. Explain the advantages of inheritance.
+6. Explain the advantages of polymorphism.
+7. Describe the advantages of libraries of objects.
+8. Describe the disadvantages of OOP.
+9. Discuss the use of programming teams.
+	Why is this here
+10. Explain the advantages of modularity in program development.
