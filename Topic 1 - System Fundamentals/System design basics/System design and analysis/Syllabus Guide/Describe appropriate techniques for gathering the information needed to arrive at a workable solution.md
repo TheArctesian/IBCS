@@ -1,1 +1,1 @@
-![[Pasted image 20230223120316.png]]
+![[software updates.png]]

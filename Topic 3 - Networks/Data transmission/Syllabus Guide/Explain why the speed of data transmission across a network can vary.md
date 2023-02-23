@@ -1,0 +1,1 @@
+![[reduction in data transmission speeds.png]]

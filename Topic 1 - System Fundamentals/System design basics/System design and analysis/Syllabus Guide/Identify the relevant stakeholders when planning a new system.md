@@ -1,1 +1,1 @@
-![[Pasted image 20230223120220.png]]
+![[stakeholder in system.png]]
