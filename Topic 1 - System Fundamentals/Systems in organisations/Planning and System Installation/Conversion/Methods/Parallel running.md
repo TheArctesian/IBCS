@@ -1,0 +1,2 @@
+**Advantage**: The old and new systems run together so if a problem is found with the new system, it can be repaired while the old system takes over 
+**Disadvantage:** This is expensive as duplicate systems and staff are needed

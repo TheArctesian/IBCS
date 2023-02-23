@@ -5,3 +5,4 @@
 3. [[Explain the use of cache memory]]
 4. [[Explain the machine instruction cycle]]
 5. [[Identify the need for persistent storage]]
+6. [[Identify the use of buses in the machine instruction cycle]]

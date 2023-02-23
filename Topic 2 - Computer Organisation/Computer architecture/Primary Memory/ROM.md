@@ -1,0 +1,1 @@
+Read only memory. Memory that holds the BIOS, which stores special instructions for booting up the computer (telling the computer how to interact with the [[operating systems]], which is stored in the secondary memory). ROM cannot be written to. 

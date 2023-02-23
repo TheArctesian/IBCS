@@ -1,3 +1,3 @@
-![[Pasted image 20230223203110.png]]
+![[how vpn's work.png]]
 
 ![[VPN]]
