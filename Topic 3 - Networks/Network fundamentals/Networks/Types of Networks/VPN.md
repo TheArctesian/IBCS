@@ -1,0 +1,1 @@
+A Virtual Private Network allows clients that are not within a LAN to connect to it. This can be used to improve security for a LAN while still allowing the client to have access to some essential information. VPN’s are also commonly used to obtain an IP address from a LAN by connecting to it, thereby faking the client’s location.

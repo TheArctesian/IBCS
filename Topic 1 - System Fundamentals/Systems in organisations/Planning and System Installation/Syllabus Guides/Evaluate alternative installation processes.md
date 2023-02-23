@@ -4,3 +4,5 @@ Students should be aware of the methods of implementation/conversion.
 - [[Direct conversion]]
 - [[Changeover conversion ]]
 - [[Phased conversion]]
+
+![[Pasted image 20230223120535.png]]

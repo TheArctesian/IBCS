@@ -1,0 +1,1 @@
+A Storage Area Network(SAN) is created when servers are connected to large storage devices. Firebase, and other cloud platforms, are examples. Somewhere, there are physical drives that connect to servers. When we make a request to store something on Firebase, these servers handle where and how the information is stored.

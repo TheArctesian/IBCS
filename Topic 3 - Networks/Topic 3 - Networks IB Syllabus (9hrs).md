@@ -1,4 +1,4 @@
-![[Network fundamentals]]
+![[Topic 3 - Networks/Network fundamentals/Network fundamentals]]
 
 <hr> 
 

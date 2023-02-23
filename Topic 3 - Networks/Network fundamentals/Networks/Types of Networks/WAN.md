@@ -1,0 +1,1 @@
+A Wide Area Network(WAN) is a series of LAN(or VLAN or WLAN) connected together. The best example of this is the internet.

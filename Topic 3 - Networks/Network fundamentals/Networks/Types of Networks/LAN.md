@@ -1,0 +1,1 @@
+A Local Area Network(LAN) connects computer systems in a relatively small area. This can be a room, a house, an office, a school or a building. Information in this network is not available outside of the physical building and you have to connect to the network through a local switch/router and ethernet cable which allows for fast speeds.

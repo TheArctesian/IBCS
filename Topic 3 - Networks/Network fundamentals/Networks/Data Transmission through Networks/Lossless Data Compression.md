@@ -1,0 +1,1 @@
+Reduces file size but maintains all original information. The final file size is bigger (less compression) with lossless over lossy. Some examples are LZ77 and ZIP.

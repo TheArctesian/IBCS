@@ -3,3 +3,4 @@
 3. Describe the characteristics of wireless networks.
 4. Describe the different methods of network security.
 5. Evaluate the advantages and disadvantages of each method of network security.
+

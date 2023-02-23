@@ -1,0 +1,1 @@
+Connected LAN’s form a Virtual Local Area Network(VLAN). Perhaps different buildings or departments within one building would like to have their own network but also provide access to that network to other departments. A VLAN allows for that scenario to happen.

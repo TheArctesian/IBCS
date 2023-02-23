@@ -1,0 +1,1 @@
+A Personal Area Network(PAN) is similar to a LAN, but instead is used to refer to the set of devices that are used in near proximity. You usually create a PAN by connecting your phone to your computer and perhaps your iPad/tablet. These devices then transmit information to each other.

@@ -1,0 +1,1 @@
+Creates much smaller files by removing some data that is not noticeable to the human eye. Some examples are JPEG and MPEG2.
