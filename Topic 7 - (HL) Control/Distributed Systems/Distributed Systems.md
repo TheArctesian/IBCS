@@ -1,0 +1,2 @@
+Centralized systems use one computer to do all the calculations. Different parts of the system will communicate with the central computer through networks. On the other hand, a distributed system is a set of individual systems that are self-sufficient that together form a bigger system. Each of these smaller systems can do calculations for its own sensors, without the need of a central authority.
+

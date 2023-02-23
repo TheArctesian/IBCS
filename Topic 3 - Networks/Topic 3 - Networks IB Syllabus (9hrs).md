@@ -1,9 +1,9 @@
-![[Topic 3 - Networks/Network fundamentals/Network fundamentals]]
+![[Network fundamentals - Guide]]
 
 <hr> 
 
-![[Data transmission]]
+![[Data transmission - Guide]]
 
 <hr> 
 
-![[Wireless networking]]
+![[Wireless networking - Guide]]

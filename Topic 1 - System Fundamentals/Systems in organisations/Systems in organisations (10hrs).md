@@ -1,7 +1,7 @@
-![[Planning and System Installation]]
+![[Planning and System Installation - Guide]]
 
-![[User Focus]]
+![[User Focus - Guide]]
 
-![[System Backup]]
+![[System Backup - Guide]]
 
-![[Software Development]]
+![[Software Development - Guide]]

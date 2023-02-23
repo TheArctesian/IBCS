@@ -1,13 +1,13 @@
-![[Computer architecture]]
+![[Computer architecture - Guide]]
 
 <hr> 
 
-![[Operating systems and application systems]]
+![[Operating systems and application systems - Guide]]
 
 <hr>
 
-![[Binary representation]]
+![[Binary representation - Guide]]
 
 <hr>
 
-![[Simple logic gates]]
+![[Simple logic gates - Guide]]

@@ -1,7 +1,7 @@
-![[Thinking procedurally]]
+![[Thinking procedurally - Guide]]
 
-![[Thinking logically]]
+![[Thinking logically - Guide]]
 
-![[Thinking concurrently]]
+![[Thinking concurrently - Guide]]
 
-![[Thinking abstractly]]
+![[Thinking abstractly - Guide]]

@@ -1,4 +1,5 @@
-This is not taught as a separate topic but incorporated into all sections of the syllabus. 
+> [!warning]
+> This is not taught as a separate topic but incorporated into all sections of the syllabus. 
 
 <hr>
 
@@ -6,7 +7,7 @@ This is not taught as a separate topic but incorporated into all sections of the
 
 <hr> 
 
-![[Connecting computational thinking and program design (22 hrs)]]
+![[Connecting computational thinking and program design (22 hrs) - Guide]]
 
 
 <hr> 

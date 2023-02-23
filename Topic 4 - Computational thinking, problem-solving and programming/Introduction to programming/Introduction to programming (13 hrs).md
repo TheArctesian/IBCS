@@ -1,3 +1,3 @@
-![[Nature of programming languages]]
+![[Nature of programming languages - Guide]]
 
-![[Use of programming languages]]
+![[Use of programming languages - Guide]]

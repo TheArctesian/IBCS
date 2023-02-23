@@ -1,7 +1,7 @@
 ## Resource management (8 hrs)
 
-![[System resources]]
+![[System resources - Guide]]
 
 <hr> 
 
-![[Role of the operating system]]
+![[Role of the operating system - Guide]]

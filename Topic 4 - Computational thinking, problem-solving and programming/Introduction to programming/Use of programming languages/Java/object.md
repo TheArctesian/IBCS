@@ -1,0 +1,1 @@
+**objects** are the variables created from a **[[class]]** definition, and they are **instances** of a class.
